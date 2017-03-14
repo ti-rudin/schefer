@@ -68,7 +68,7 @@ src="https://www.facebook.com/tr?id=1493834924245543&ev=PageView&noscript=1"
         </div>
         <div class="navbar-collapse collapse right">
           <ul class="nav navbar-nav">
-             <! --li> <a href="/" class="smoothScroll">Главная</a></li -->
+
              <li> <a href="#portfolio" class="smoothScroll"> Техника</a></li>
               <li> <a href="/price.php" class="smoothScroll"> Приборы</a></li>
               <li> <a href="/price.php" class="smoothScroll"> Химия</a></li>
@@ -154,7 +154,7 @@ src="https://www.facebook.com/tr?id=1493834924245543&ev=PageView&noscript=1"
                 <img class="img-responsive" src="images/ic1.png" alt="">
 
 					<h2>Дорожно-строительная техника</h2>
-					<p> Программа машин для всех видов дорожных работ.</p>
+					<p> Программа машин для всех видов дорожных работ</p>
 					</div><!-- col-lg-4 -->
 
 				<div class="col-lg-3 col-sm-6 col-md-6 callout clearfix">
