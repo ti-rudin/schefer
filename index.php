@@ -68,25 +68,22 @@ src="https://www.facebook.com/tr?id=1493834924245543&ev=PageView&noscript=1"
         </div>
         <div class="navbar-collapse collapse right">
           <ul class="nav navbar-nav">
-             <li> <a href="/" class="smoothScroll">Главная</a></li>
-              <li> <a href="#greywrap" class="smoothScroll"> Услуги</a></li>
-              <li> <a href="#portfolio" class="smoothScroll"> Портфолио</a></li>
-              <li> <a href="/price.php" class="smoothScroll"> Цены</a></li>
-              <li> <a href="http://ti-soft.ru/"> Магазин</a></li>
+             <! --li> <a href="/" class="smoothScroll">Главная</a></li -->
+             <li> <a href="#portfolio" class="smoothScroll"> Техника</a></li>
+              <li> <a href="/price.php" class="smoothScroll"> Приборы</a></li>
+              <li> <a href="/price.php" class="smoothScroll"> Химия</a></li>
               <li> <a href="/partners.php"> Партнеры</a></li>
-              <li> <a href="/people.php" class="smoothScroll"> Команда</a></li>
               <li> <a href="#contact" class="smoothScroll"> Контакты</a></li>
           </ul>
         </div>
         <nav class="mobile-menu">
             <ul>
              <li> <a href="/" class="smoothScroll first"><i class="mnu__icon fa fa-home"></i> Главная</a></li>
-              <li> <a href="#greywrap" class="smoothScroll"><i class="mnu__icon fa fa-superpowers"></i> Услуги</a></li>
-              <li> <a href="#portfolio" class="smoothScroll"><i class="mnu__icon fa fa-puzzle-piece"></i> Портфолио</a></li>
-              <li> <a href="/price.php" class="smoothScroll"><i class="mnu__icon fa fa-rub"></i> Цены</a></li>
-              <li> <a href="http://ti-soft.ru/"><i class="mnu__icon fa fa-shopping-basket"></i> Магазин</a></li>
-              <li> <a href="/partners.php"><i class="mnu__icon fa fa-sign-language"></i> Партнеры</a></li>
-              <li> <a href="/people.php" class="smoothScroll"><i class="mnu__icon fa fa-users"></i> Команда</a></li>
+              <li> <a href="#greywrap" class="smoothScroll"><i class="mnu__icon fa fa-superpowers"></i> Техника</a></li>
+              <li> <a href="#portfolio" class="smoothScroll"><i class="mnu__icon fa fa-puzzle-piece"></i> Приборы</a></li>
+              <li> <a href="/price.php" class="smoothScroll"><i class="mnu__icon fa fa-rub"></i> Химия</a></li>
+              <li> <a href="http://ti-soft.ru/"><i class="mnu__icon fa fa-shopping-basket"></i> Партнеры</a></li>
+
               <li> <a href="#contact" class="smoothScroll"><i class="mnu__icon fa fa-phone"></i> Контакты</a></li>
             </ul>
         </nav>
@@ -115,24 +112,21 @@ src="https://www.facebook.com/tr?id=1493834924245543&ev=PageView&noscript=1"
         <div class="navbar-collapse collapse right">
           <ul class="nav navbar-nav">
            <li> <a href="/" class="smoothScroll">Главная</a></li>
-              <li> <a href="#greywrap" class="smoothScroll"> Услуги</a></li>
-              <li> <a href="#portfolio" class="smoothScroll"> Портфолио</a></li>
-              <li> <a href="/price.php" class="smoothScroll"> Цены</a></li>
-              <li> <a href="http://ti-soft.ru/"> Магазин</a></li>
+               <li> <a href="#portfolio" class="smoothScroll"> Техника</a></li>
+              <li> <a href="/price.php" class="smoothScroll"> Приборы</a></li>
+              <li> <a href="/price.php" class="smoothScroll"> Химия</a></li>
               <li> <a href="/partners.php"> Партнеры</a></li>
-              <li> <a href="/people.php" class="smoothScroll"> Команда</a></li>
               <li> <a href="#contact" class="smoothScroll"> Контакты</a></li>
           </ul>
         </div>
 					<nav class="mobile-menu">
             <ul>
               <li> <a href="/" class="smoothScroll first"><i class="mnu__icon fa fa-home"></i> Главная</a></li>
-              <li> <a href="#greywrap" class="smoothScroll"><i class="mnu__icon fa fa-superpowers"></i> Услуги</a></li>
-              <li> <a href="#portfolio" class="smoothScroll"><i class="mnu__icon fa fa-puzzle-piece"></i> Портфолио</a></li>
-              <li> <a href="/price.php" class="smoothScroll"><i class="mnu__icon fa fa-rub"></i> Цены</a></li>
-              <li> <a href="http://ti-soft.ru/"><i class="mnu__icon fa fa-shopping-basket"></i> Магазин</a></li>
-              <li> <a href="/partners.php"><i class="mnu__icon fa fa-sign-language"></i> Партнеры</a></li>
-              <li> <a href="/people.php" class="smoothScroll"><i class="mnu__icon fa fa-users"></i> Команда</a></li>
+              <li> <a href="#greywrap" class="smoothScroll"><i class="mnu__icon fa fa-superpowers"></i> Техника</a></li>
+              <li> <a href="#portfolio" class="smoothScroll"><i class="mnu__icon fa fa-puzzle-piece"></i> Приборы</a></li>
+              <li> <a href="/price.php" class="smoothScroll"><i class="mnu__icon fa fa-rub"></i> Химия</a></li>
+              <li> <a href="http://ti-soft.ru/"><i class="mnu__icon fa fa-shopping-basket"></i> Партнеры</a></li>
+
               <li> <a href="#contact" class="smoothScroll"><i class="mnu__icon fa fa-phone"></i> Контакты</a></li>
             </ul>
         </nav>
@@ -160,13 +154,13 @@ src="https://www.facebook.com/tr?id=1493834924245543&ev=PageView&noscript=1"
                 <img class="img-responsive" src="images/ic1.png" alt="">
 
 					<h2>Дорожно-строительная техника</h2>
-					<p> Информаци онная безопасность офисной сети. Настройка сетевого оборудования. Системное администрирование.</p>
+					<p> Программа машин для всех видов дорожных работ.</p>
 					</div><!-- col-lg-4 -->
 
 				<div class="col-lg-3 col-sm-6 col-md-6 callout clearfix">
 				<img class="img-responsive" src="images/ic3.png" alt="">
 					<h2>Битумные присадки, химия</h2>
-					<p>Настроим для вас рекламные каналы - Яндекс.Директ, Google.Adwords, SEO. Продвижение в социальных сетях.</p>
+					<p>Химические компоненты для дорожного строительства</p>
 				</div><!-- col-lg-4 -->
 			</div>
 
@@ -174,7 +168,7 @@ src="https://www.facebook.com/tr?id=1493834924245543&ev=PageView&noscript=1"
 				<div class="col-lg-3 col-sm-6 col-md-6 callout">
 				<img class="img-responsive" src="images/ic2.png" alt="">
 					<h2>Приборы и специальное оборудование</h2>
-					<p>У Вас до сих пор нет сайта? Или есть, но устарел? Обращайтесь! Воспользуйтесь нашим 15-летним опытом!</p>
+					<p>Качественные профессиональные инструменты и электроника</p>
 
 					</div><!-- col-lg-4 -->
 
